@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Elliot-Tester
-- 👀 I’m interested in: AI (trying to make one) 
-- 🌱 I’m currently learning Basic Python Stuff
+- 👀 I’m interested in: Discord Bots and Cybersecurity
+- 🌱 I’m currently learning Intermediate Python Stuff (Mostly Classes)
 - 💞️ I’m looking to collaborate on: Nothing really just trying out stuff im interested in.
-- 📫 How to reach me: GMAIL of course!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 10 years old and can code!
 
